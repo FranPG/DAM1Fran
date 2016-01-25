@@ -45,6 +45,89 @@ public class DAM1Fran {
             System.out.println("No te flipes y hazlo bien.");
         }
         }while((tipo!=1)&&(tipo!=2)&&(tipo!=3));
+        switch(region){
+            case 1:  
+                switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de bulbasaur");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de squirtle");
+                       break;
+                   case 3:
+                       System.out.println("Por Fin, aguien listo que se coge al dregon de fuego");
+                       break;
+               }
+                
+            break;
+            case 2: 
+               switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de chikorita");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de tu mierda de totodile");
+                       break;
+                   case 3:
+                       System.out.println("Disfruta de cyndaquil");
+                       break;
+               }
+            break;
+            case 3:
+                switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de treeko");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de mudkip");
+                       break;
+                   case 3:
+                       System.out.println("Disfruta de torchic");
+                       break;
+               }
+                
+            break;
+            case 4:
+                switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de turtwig");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de piplup");
+                       break;
+                   case 3:
+                       System.out.println("Disfruta de chimchar");
+                       break;
+               }
+                
+            break;
+            case 5: 
+                switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de snivy");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de oshawott");
+                       break;
+                   case 3:
+                       System.out.println("Disfruta de tepig");
+                       break;
+               }
+            break;
+            case 6:
+                switch(tipo){
+                   case 1:
+                       System.out.println("Disfruta de chespin");
+                       break;
+                   case 2:
+                       System.out.println("Disfruta de froakie");
+                       break;
+                   case 3:
+                       System.out.println("Disfruta de fenekin");
+                       break;
+               }
+            break;
+        }
     }
     
 }
