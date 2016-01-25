@@ -49,40 +49,39 @@ public class DAM1Fran {
             case 1:  
                 switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de bulbasaur");
+                       System.out.println("Disfruta de Bulbasaur.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de squirtle");
+                       System.out.println("Disfruta de Squirtle.");
                        break;
                    case 3:
-                       System.out.println("Por Fin, aguien listo que se coge al dregon de fuego");
+                       System.out.println("Por Fin, aguien listo que se coge al dragon de fuego.");
                        break;
-               }
-                
+               }       
             break;
             case 2: 
                switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de chikorita");
+                       System.out.println("Disfruta de Chikorita.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de tu mierda de totodile");
+                       System.out.println("Disfruta de tu mierda de Totodile.");
                        break;
                    case 3:
-                       System.out.println("Disfruta de cyndaquil");
+                       System.out.println("Disfruta de Cyndaquil.");
                        break;
                }
             break;
             case 3:
                 switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de treeko");
+                       System.out.println("Disfruta de Treeko.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de mudkip");
+                       System.out.println("Disfruta de Mudkip.");
                        break;
                    case 3:
-                       System.out.println("Disfruta de torchic");
+                       System.out.println("Disfruta de Torchic.");
                        break;
                }
                 
@@ -90,13 +89,13 @@ public class DAM1Fran {
             case 4:
                 switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de turtwig");
+                       System.out.println("Disfruta de Turtwig.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de piplup");
+                       System.out.println("Disfruta de Piplup.");
                        break;
                    case 3:
-                       System.out.println("Disfruta de chimchar");
+                       System.out.println("Disfruta deCchimchar.");
                        break;
                }
                 
@@ -104,26 +103,26 @@ public class DAM1Fran {
             case 5: 
                 switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de snivy");
+                       System.out.println("Disfruta de Snivy.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de oshawott");
+                       System.out.println("Disfruta de Oshawott.");
                        break;
                    case 3:
-                       System.out.println("Disfruta de tepig");
+                       System.out.println("Disfruta de Tepig.");
                        break;
                }
             break;
             case 6:
                 switch(tipo){
                    case 1:
-                       System.out.println("Disfruta de chespin");
+                       System.out.println("Disfruta de Chespin.");
                        break;
                    case 2:
-                       System.out.println("Disfruta de froakie");
+                       System.out.println("Disfruta de Froakie.");
                        break;
                    case 3:
-                       System.out.println("Disfruta de fenekin");
+                       System.out.println("Disfruta de Fenekin.");
                        break;
                }
             break;
